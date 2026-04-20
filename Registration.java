@@ -77,7 +77,7 @@ public class Registration {
                 System.out.println("Password should contain a number.");
                 System.out.println("Password must contain a special character.");
             }
-        }1
+        }
 
         // CELL PHONE NUMBER INPUT
         while(true) {
